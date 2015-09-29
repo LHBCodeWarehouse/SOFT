@@ -23,3 +23,6 @@ http://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using
 
 一些视频教程：
 http://www.raywenderlich.com/96554/video-tutorial-adaptive-layout-part-0-introduction
+
+整理笔记：
+https://github.com/sxyx2008/DevArticles/labels/iOS
