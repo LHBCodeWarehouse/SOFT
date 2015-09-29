@@ -20,3 +20,6 @@ swift 资源：https://github.com/ipader/SwiftGuide
 
 国外iOS开发教程、博客、工具、文档类站点收集整理:
 http://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using-autolayout-constraints-in-xcode-6
+
+一些视频教程：
+http://www.raywenderlich.com/96554/video-tutorial-adaptive-layout-part-0-introduction
